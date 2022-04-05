@@ -1,4 +1,4 @@
-# Web-VR-Shooting-Game
+# Web-VR-Shooting-Game Site
 
 
 Instructions about playing this game
